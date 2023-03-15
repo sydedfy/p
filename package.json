@@ -1,0 +1,31 @@
+{
+  "name": "internet",
+  "description": "Framework for creating peer-to-peer browser networks",
+  "version": "0.3.3",
+  "dependencies": {
+    "its": "~1.0.2"
+  },
+  "devDependencies": {
+    "boilerplate-gulp-js": "^1.0.0",
+    "gulp": "gulpjs/gulp.git#4.0",
+    "gulp-connect": "^2.2.0",
+    "sinon": "~1.7.3"
+  },
+  "main": "./index.js",
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {},
+  "keywords": [
+    "peer-to-peer",
+    "websockets",
+    "webrtc",
+    "p2p",
+    "plink",
+    "p",
+    "onramp",
+    "mesh",
+    "distributed"
+  ]
+}
